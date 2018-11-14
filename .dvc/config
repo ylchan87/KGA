@@ -1,0 +1,4 @@
+['remote "gcloud"']
+url = gs://kaggle_dvc_repo
+[core]
+remote = gcloud

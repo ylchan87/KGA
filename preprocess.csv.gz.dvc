@@ -1,0 +1,6 @@
+cmd: python preprocess.py
+md5: 1ffcec5e9b168440cb0a334c9e0f0cb9
+outs:
+- cache: true
+  md5: 8065ec1a3c319a17b8f822e10420b19c
+  path: preprocess.csv.gz
